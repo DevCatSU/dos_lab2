@@ -24,3 +24,18 @@ touch fol_2/2_3.txt
 echo "Files created successfully"
 
 touch .gitignore
+
+echo "Setting the permissions for file endign _1,_3"
+chmod 600 fol_1/1_1.txt
+chmod 600 fol_1/1_3.txt
+chmod 600 fol_2/2_1.txt
+chmod 600 fol_2/2_3.txt
+echo "permissions uptated successfully"
+
+echo "Setting the permissions for file endign _2"
+chmod 777 fol_1/1_2.txt
+chmod 777 fol_2/2_2.txt
+echo "permissions uptated successfully"
+
+echo "Create README.md"
+touch README.md
