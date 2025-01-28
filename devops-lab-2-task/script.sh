@@ -1,5 +1,10 @@
 #!/bin/bash
 
+echo "Starting script - remove folders"
+rm -rf fol_1
+rm -rf fol_2
+
+
 echo "Creating folder fol_1 and fol_2"
 mkdir -p fol_1
 mkdir -p fol_2
