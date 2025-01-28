@@ -3,7 +3,7 @@
 Name: Kyungsu Kim 
 Student Number: x24106194@student.ncirl.ie
 
-[DevCatSU GitHub Repository](hhttps://github.com/DevCatSU/dos_lab2.git)
+[DevCatSU](https://github.com/DevCatSU/dos_lab2)
 
 ---
 
