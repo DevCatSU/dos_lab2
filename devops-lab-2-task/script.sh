@@ -39,5 +39,3 @@ echo "permissions uptated successfully"
 
 echo "Create README.md"
 touch README.md
-
-echo "Job completed"
